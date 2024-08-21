@@ -1,5 +1,6 @@
 # Primera expendedora
-Código en C# de máquina expendedora\\
+Código en C# de máquina expendedora
+
 [Harry Styles](youtube.com/harrystylesvevo)
 ````
 using System;
