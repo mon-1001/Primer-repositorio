@@ -1,6 +1,6 @@
 # Primera expendedora
 Código en C# de máquina expendedora
-[Harry Styles](youtube.com/harrystylesvevo)
+  [Harry Styles](youtube.com/harrystylesvevo)
 ````
 using System;
 using System.Threading; //sirve para el tiempo de espera de la pantalla
