@@ -1,0 +1,7 @@
+C:\Users\Alumnado\Documents\Mon\Montserrat Díaz Vázquez\Expendedoras\bin\Debug\Expendedoras.exe.config
+C:\Users\Alumnado\Documents\Mon\Montserrat Díaz Vázquez\Expendedoras\bin\Debug\Expendedoras.exe
+C:\Users\Alumnado\Documents\Mon\Montserrat Díaz Vázquez\Expendedoras\bin\Debug\Expendedoras.pdb
+C:\Users\Alumnado\Documents\Mon\Montserrat Díaz Vázquez\Expendedoras\obj\Debug\Expendedoras.csproj.AssemblyReference.cache
+C:\Users\Alumnado\Documents\Mon\Montserrat Díaz Vázquez\Expendedoras\obj\Debug\Expendedoras.csproj.CoreCompileInputs.cache
+C:\Users\Alumnado\Documents\Mon\Montserrat Díaz Vázquez\Expendedoras\obj\Debug\Expendedoras.exe
+C:\Users\Alumnado\Documents\Mon\Montserrat Díaz Vázquez\Expendedoras\obj\Debug\Expendedoras.pdb
